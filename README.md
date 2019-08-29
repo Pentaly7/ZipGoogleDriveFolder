@@ -1,4 +1,4 @@
-# ZipGoogleDriveFolder
+# Zip Google Drive Folder
 Zipping Entire Google Drive folder 
 
 
